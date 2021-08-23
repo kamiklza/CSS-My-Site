@@ -5,10 +5,13 @@ div{
 h1{
   margin-top: 0px;
   font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
 }
 
 h2{
   font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem
 }
 
 h3{
@@ -45,4 +48,8 @@ body{
   position: absolute;
   left: 300px;
   bottom: 300px;
+}
+
+.self_img{
+  padding-top: 20px;
 }
